@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Class Activity 1</title>
+    </head>
+    <body>
+        <h2>Grocery Store List</h2>
+        <dl>
+            <dt>Choccy-milk&trade;</dt>
+            <dd>yummy</dd>
+            <dt>Tea</dt>
+            <dd>relaxing</dd>
+            <dt>Oranges</dt>
+            <dd>little-snack</dd>
+        </dl>
+
+    </body>
+
+</html>
